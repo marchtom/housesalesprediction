@@ -3,7 +3,8 @@
 ## Easy to read html version available here: https://htmlpreview.github.io/?https://github.com/marchtom/housesalesprediction/blob/html/house_sales.html
 
 
-Python with scikit-learn, pandas and numpy
+Python3.6 with scikit-learn, pandas, matplotlib, seaborn and numpy.
+
 
 #### Data source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
