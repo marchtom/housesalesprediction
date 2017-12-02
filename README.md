@@ -1,6 +1,6 @@
 # House sales prediction
 
-## Easy to read html version available here: https://htmlpreview.github.io/?https://github.com/marchtom/housesalesprediction/blob/html/house_sales.html
+## Nice version of notebook: http://nbviewer.jupyter.org/github/marchtom/housesalesprediction/blob/master/house_sales.ipynb
 
 
 Python3.6 with scikit-learn, pandas, matplotlib, seaborn and numpy.
